@@ -1,0 +1,46 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: pink;
+      
+}
+
+body {
+    background-color: black;
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+  margin-right: auto;  
+  width: 300px; height: 450px;
+    
+}
+
+p{
+    text-align: center;
+    color: pink;
+    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(238, 203, 8);
+      
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+    color: pink;
+      
+}
+
+
+/* 1- Senti muita dificuldade em centralizar minha imagem, o erro estavam em não colocar o comando display: block; */
+/* 2- Esqueci várias vezes de alterar a cor da letra, ja que meu fundo era preto as letras ficavam invisíveis */
+/* 3- O src é responsável por buscar o arquivo para exibir na página, seja ele uma url da web ou um arquivo interno  */
